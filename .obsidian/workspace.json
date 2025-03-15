@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "ffefffe142e18ae1",
+    "type": "split",
+    "children": [
+      {
+        "id": "91482abc457cb5ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc8f749faa79ed29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2025-03-14.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-14"
+            }
+          },
+          {
+            "id": "08b5bf29f08a084f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2025-03-15.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-15"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f882d75eae9dd32",
+    "type": "split",
+    "children": [
+      {
+        "id": "a22072021fd860ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3ffdb5799fecb0b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "93b260bbbfd60114",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8978ddb041aed5c9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72065602e4c62d07",
+    "type": "split",
+    "children": [
+      {
+        "id": "c53d3e86414fe98c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da84efb4452e960c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "日记/2025-03-13.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2025-03-13 的反向链接列表"
+            }
+          },
+          {
+            "id": "fa901c72d54d096b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "日记/2025-03-15.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2025-03-15 的出链列表"
+            }
+          },
+          {
+            "id": "4c2ef67fd2af80e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e010ff9c213d96d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "46cf422733545e37",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "08b5bf29f08a084f",
+  "lastOpenFiles": [
+    "日记/2025-03-14.md",
+    "日记/2025-03-13.md",
+    "日记/2025-03-15.md",
+    "README.md",
+    "2025-03-13.md",
+    "日记",
+    "英语/README.md",
+    "NAS/README.md",
+    "OI/OI_README.md",
+    "OI/题解集合/题解集合_README.md",
+    "OI/个人模板/个人模板_README.md",
+    "个人模板/线段树1.cpp.md",
+    "个人模板",
+    "缺省源.cpp.md",
+    "OI/个人模板/缺省源.cpp",
+    "OI/个人模板/总资料.md",
+    "OI/题解集合/CF1862B-Sequence-Game-题解.md",
+    "OI/题解集合/CF1850C-Word-on-the-Paper题解.md",
+    "OI/题解集合/11-25-NOIP-模拟赛-题解.md",
+    "OI/题解集合/二分训练题解.md",
+    "高中文化课/README.md",
+    "单片机/README.md"
+  ]
+}
