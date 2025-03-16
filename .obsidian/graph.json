@@ -13,6 +13,13 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "path:高中文化课  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
     }
   ],
   "collapse-display": false,
@@ -25,6 +32,6 @@
   "repelStrength": 18.5813148788927,
   "linkStrength": 0.5,
   "linkDistance": 132,
-  "scale": 0.7132754626224587,
-  "close": false
+  "scale": 0.5087618855792735,
+  "close": true
 }

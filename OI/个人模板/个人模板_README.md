@@ -2,7 +2,7 @@
 这里是Introl的个人模板，包含大量OI中常用的算法、数据结构、动态规划等的模板。
 ### [[总资料]]
 来自@[EBeason]([EBeason - Codeforces](https://codeforces.com/profile/EBeason))的常用模板
-### [缺省源](/个人模板/缺省源.cpp)
+### [缺省源](个人模板/缺省源.cpp)
 ### 图论
 
 [**Dijkstra**](个人模板/Dijkstra.cpp)

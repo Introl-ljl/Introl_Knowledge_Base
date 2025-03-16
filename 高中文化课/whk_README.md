@@ -6,36 +6,36 @@
 
 ## 语文
 
-[语文_README](/高中文化课/语文/语文_README)
+[语文_README](/高中文化课/语文/语文_README.md)
 
 ## 数学
 
-[数学_README](/高中文化课/数学/数学_README)
+[数学_README](/高中文化课/数学/数学_README.md)
 
 ## 英语
 
-[英语_README](/高中文化课/英语/英语_README)
+[英语_README](/高中文化课/英语/英语_README.md)
 
 ## 物理
 
-[物理_README](/高中文化课/物理/物理_README)
+[物理_README](/高中文化课/物理/物理_README.md)
 
 ## 化学
 
-[化学_README](/高中文化课/化学/化学_README)
+[化学_README](/高中文化课/化学/化学_README.md)
 
 ## 生物
 
-[生物_README](/高中文化课/生物/生物_README)
+[生物_README](/高中文化课/生物/生物_README.md)
 
 ## 政治
 
-[政治_README](/高中文化课/政治/政治_README)
+[政治_README](/高中文化课/政治/政治_README.md)
 
 ## 地理
 
-[地理_README](/高中文化课/地理/地理_README)
+[地理_README](/高中文化课/地理/地理_README.md)
 
 ## 历史
 
-[历史_README](/高中文化课/历史/历史_README)
+[历史_README](/高中文化课/历史/历史_README.md)
