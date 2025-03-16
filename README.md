@@ -1,4 +1,4 @@
-# Introl的个人知识库/Introl's Knowledge Base
+# Introl的个人知识库
 
 ## 简介
 
