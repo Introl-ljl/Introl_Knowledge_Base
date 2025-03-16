@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "高中文化课/whk_README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "whk_README"
+            }
+          },
+          {
+            "id": "2ce56c7e88df226d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OI/OI_README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "OI_README"
+            }
+          },
+          {
+            "id": "e9fbb96edc4c4c0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OI/资源链接/资源链接_README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "资源链接_README"
+            }
+          },
+          {
+            "id": "db0e1c2420df6bea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2025-03-16.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-16"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,39 +262,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc8f749faa79ed29",
+  "active": "e9fbb96edc4c4c0b",
   "lastOpenFiles": [
+    "OI/OI_README.md",
+    "日记/2025-03-16.md",
+    "OI/资源链接/资源链接_README.md",
+    "OI/资源链接",
     "日记/2025-03-15.md",
+    "高中文化课/生物/生物_README.md",
+    "高中文化课/化学/化学_README.md",
+    "高中文化课/物理/物理_README.md",
+    "高中文化课/数学/数学_README.md",
+    "高中文化课/whk_README.md",
+    "高中文化课/政治/政治_README.md",
+    "高中文化课/历史/历史_README.md",
+    "高中文化课/地理/地理_README.md",
+    "高中文化课/英语/英语_README.md",
+    "高中文化课/语文/语文_README.md",
+    "高中文化课/数学/数学_README",
+    "高中文化课/英语/英语_README",
+    "高中文化课/化学/化学_README",
+    "高中文化课/生物/生物_README",
+    "高中文化课/政治/政治_README",
+    "高中文化课/地理/地理_README",
+    "高中文化课/历史/历史_README",
+    "高中文化课/物理/物理_README",
+    "高中文化课/语文/语文_README",
+    "README.md",
     "OI/算法文章/学习笔记-1-递归及递推.md",
     "OI/算法文章/OI/算法文章/学习笔记-1-递归及递推.md",
-    "OI/算法文章/OI/算法文章",
-    "OI/算法文章/OI",
     "OI/算法文章/算法文章_README.md",
     "算法文章/学习笔记-1-递归及递推.md",
-    "算法文章",
-    "OI/OI_README.md",
     "OI/算法文章/学习笔记-4-前缀和-差分.md",
     "OI/算法文章/学习笔记-3-二分.md",
     "OI/算法文章/学习笔记-2-DFS-BFS算法.md",
     "OI/个人总结/个人总结_README.md",
     "日记/2025-03-14.md",
     "www.noi.cn.md",
-    "算法文章/算法文章_README.md",
-    "OI/个人模板/个人模板_README.md",
-    "日记/2025-03-13.md",
-    "README.md",
-    "2025-03-13.md",
-    "日记",
-    "英语/README.md",
-    "NAS/README.md",
-    "OI/题解集合/题解集合_README.md",
-    "个人模板/线段树1.cpp.md",
-    "个人模板",
-    "缺省源.cpp.md",
-    "OI/个人模板/缺省源.cpp",
-    "OI/个人模板/总资料.md",
-    "OI/题解集合/CF1862B-Sequence-Game-题解.md",
-    "OI/题解集合/CF1850C-Word-on-the-Paper题解.md",
-    "OI/题解集合/11-25-NOIP-模拟赛-题解.md"
+    "算法文章/算法文章_README.md"
   ]
 }
