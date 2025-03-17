@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2ce56c7e88df226d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
             "id": "e9fbb96edc4c4c0b",
             "type": "leaf",
             "state": {
@@ -244,35 +220,21 @@
     "type": "floating",
     "children": [
       {
-        "id": "6f444b9738b4f756",
+        "id": "93e8680df8451331",
         "type": "window",
         "children": [
           {
-            "id": "8181ff6396b705e1",
+            "id": "3db567793f4310ca",
             "type": "tabs",
             "children": [
               {
-                "id": "dc8f749faa79ed29",
+                "id": "2ce56c7e88df226d",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "introl-ljl@qq.com.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "introl-ljl@qq.com"
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "关系图谱"
                 }
               }
             ]
@@ -288,8 +250,9 @@
       }
     ]
   },
-  "active": "dc8f749faa79ed29",
+  "active": "2ce56c7e88df226d",
   "lastOpenFiles": [
+    "README.md",
     "introl-ljl@qq.com.md",
     "日记/2025-03-17.md",
     "高中文化课/whk_README.md",
@@ -303,7 +266,6 @@
     "OI/个人模板/总资料.md",
     "OI/算法文章/课件.md",
     "高中文化课/英语/英语_README.md",
-    "README.md",
     "日记/2025-03-16.md",
     "英语/README.md",
     "OI/资源链接",
