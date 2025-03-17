@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dc8f749faa79ed29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "高中文化课/whk_README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "whk_README"
-            }
-          },
-          {
             "id": "2ce56c7e88df226d",
             "type": "leaf",
             "state": {
@@ -103,8 +79,7 @@
               "title": "题解集合_README"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,11 +132,13 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "72065602e4c62d07",
@@ -263,25 +240,39 @@
     }
   },
   "floating": {
-    "id": "b5af54e777810420",
+    "id": "333bc2ba4fbf8473",
     "type": "floating",
     "children": [
       {
-        "id": "065bff77946d1421",
+        "id": "6f444b9738b4f756",
         "type": "window",
         "children": [
           {
-            "id": "888c25e210d897cc",
+            "id": "8181ff6396b705e1",
             "type": "tabs",
             "children": [
               {
-                "id": "db0e1c2420df6bea",
+                "id": "dc8f749faa79ed29",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "关系图谱"
+                  "type": "markdown",
+                  "state": {
+                    "file": "introl-ljl@qq.com.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "introl-ljl@qq.com"
                 }
               }
             ]
@@ -297,8 +288,11 @@
       }
     ]
   },
-  "active": "db0e1c2420df6bea",
+  "active": "dc8f749faa79ed29",
   "lastOpenFiles": [
+    "introl-ljl@qq.com.md",
+    "日记/2025-03-17.md",
+    "高中文化课/whk_README.md",
     "OI/题解集合/题解集合_README.md",
     "OI/题解集合/CF1846B-Rudolph-and-Tic-Tac-Toe-题解.md",
     "OI/OI_README.md",
@@ -310,10 +304,8 @@
     "OI/算法文章/课件.md",
     "高中文化课/英语/英语_README.md",
     "README.md",
-    "introl-ljl@qq.com.md",
     "日记/2025-03-16.md",
     "英语/README.md",
-    "高中文化课/whk_README.md",
     "OI/资源链接",
     "日记/2025-03-15.md",
     "高中文化课/生物/生物_README.md",
@@ -333,7 +325,6 @@
     "高中文化课/历史/历史_README",
     "高中文化课/物理/物理_README",
     "高中文化课/语文/语文_README",
-    "OI/算法文章/OI/算法文章/学习笔记-1-递归及递推.md",
-    "算法文章/学习笔记-1-递归及递推.md"
+    "OI/算法文章/OI/算法文章/学习笔记-1-递归及递推.md"
   ]
 }

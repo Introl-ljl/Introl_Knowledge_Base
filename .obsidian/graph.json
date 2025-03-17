@@ -18,7 +18,7 @@
       "query": "path:高中文化课  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 19711
       }
     }
   ],
@@ -32,6 +32,6 @@
   "repelStrength": 18.5813148788927,
   "linkStrength": 0.5,
   "linkDistance": 132,
-  "scale": 0.7132754626224636,
-  "close": true
+  "scale": 0.7132754626224657,
+  "close": false
 }
