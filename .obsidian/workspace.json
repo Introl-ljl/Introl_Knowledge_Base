@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OI/算法文章/算法文章_README.md",
+                "file": "日记/2025-03-20.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "算法文章_README"
+              "title": "2025-03-20"
+            }
+          },
+          {
+            "id": "f4a9441675b9e817",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "高中文化课/数学/必修一.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "必修一"
             }
           },
           {
@@ -108,13 +132,11 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "72065602e4c62d07",
@@ -201,7 +223,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,52 +238,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "333bc2ba4fbf8473",
-    "type": "floating",
-    "children": [
-      {
-        "id": "93e8680df8451331",
-        "type": "window",
-        "children": [
-          {
-            "id": "3db567793f4310ca",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2ce56c7e88df226d",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "关系图谱"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1920,
-        "y": 0,
-        "width": 1228,
-        "height": 1032,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "2ce56c7e88df226d",
+  "active": "e9fbb96edc4c4c0b",
   "lastOpenFiles": [
+    "高中文化课/数学/数学_README.md",
+    "日记/2025-03-20.md",
+    "日记/2025-03-17.md",
+    "高中文化课/数学/必修一.md",
+    "OI/OI_README.md",
+    "OI/资源链接/资源链接_README.md",
+    "高中文化课/化学/化学_README.md",
+    "OI/算法文章/算法文章_README.md",
     "README.md",
     "introl-ljl@qq.com.md",
-    "日记/2025-03-17.md",
     "高中文化课/whk_README.md",
     "OI/题解集合/题解集合_README.md",
     "OI/题解集合/CF1846B-Rudolph-and-Tic-Tac-Toe-题解.md",
-    "OI/OI_README.md",
-    "OI/资源链接/资源链接_README.md",
-    "OI/算法文章/算法文章_README.md",
     "OI/算法文章/学习笔记-1-递归及递推.md",
     "OI/个人模板/个人模板_README.md",
     "OI/个人模板/总资料.md",
@@ -271,13 +263,10 @@
     "OI/资源链接",
     "日记/2025-03-15.md",
     "高中文化课/生物/生物_README.md",
-    "高中文化课/化学/化学_README.md",
     "高中文化课/物理/物理_README.md",
-    "高中文化课/数学/数学_README.md",
     "高中文化课/政治/政治_README.md",
     "高中文化课/历史/历史_README.md",
     "高中文化课/地理/地理_README.md",
-    "高中文化课/语文/语文_README.md",
     "高中文化课/数学/数学_README",
     "高中文化课/英语/英语_README",
     "高中文化课/化学/化学_README",
@@ -286,7 +275,6 @@
     "高中文化课/地理/地理_README",
     "高中文化课/历史/历史_README",
     "高中文化课/物理/物理_README",
-    "高中文化课/语文/语文_README",
-    "OI/算法文章/OI/算法文章/学习笔记-1-递归及递推.md"
+    "高中文化课/语文/语文_README"
   ]
 }
