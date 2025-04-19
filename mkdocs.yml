@@ -1,5 +1,6 @@
 site_name: Introl's Knowledge Base
 site_url: https://wiki.introl.top/
+docs_dir: ./
 validation:
   links:
     absolute_links: relative_to_docs
