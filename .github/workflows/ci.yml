@@ -1,9 +1,7 @@
 name: ci 
 on:
   push:
-    branches:
-      - master 
-      - main
+    branches: [master, main]
 permissions:
   contents: write
 jobs:
@@ -11,22 +9,38 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Configure Git Credentials
+        with:
+          fetch-depth: 0  # 关键修复1：完整克隆仓库历史
+          path: 'repo'    # 关键修复2：指定检出目录
+
+      - name: Configure Git
         run: |
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
       - uses: actions/setup-python@v5
         with:
-          python-version: 3.x
+          python-version: "3.x"
+
       - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
+
       - uses: actions/cache@v4
         with:
           key: mkdocs-material-${{ env.cache_id }}
           path: .cache 
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs-material 
-      - run: |
-          mv mkdocs.yml ../mkdocs.yml
-          cd ../
-          mkdocs gh-deploy --force
+
+      - run: pip install mkdocs-material
+
+      - name: Prepare Deployment
+        run: |
+          # 关键修复3：在原始位置操作文件
+          cp repo/mkdocs.yml .
+          cp -r repo/docs .
+          ls -la  # 验证文件结构
+
+      - name: Deploy Documentation
+        run: mkdocs gh-deploy --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 关键修复4：显式传递token
