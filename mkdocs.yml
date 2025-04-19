@@ -5,6 +5,10 @@ validation:
     absolute_links: relative_to_docs
     anchors: warn
     unrecognized_links: warn
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js
+markdown_extensions:
+  - codehilite
 theme:
   name: material
   features:
