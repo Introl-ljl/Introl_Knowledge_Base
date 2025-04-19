@@ -30,15 +30,16 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-nav:
-    - 简介: README.md
-    - OI: OI/
-    
+# nav:
+#     - 简介: README.md
+#     - OI: OI/
+
 # nav: 
 #   - 简介: README.md
 #   - OI: 
 #     - OI部分简介: OI/OI_README.md
 #     - 个人模板: 
+#       - 并查集: OI/个人模板
 #       - README: OI/个人模板/个人模板_README.md
 #       - 总资料: OI/个人模板/总资料.md
 #     - 算法文章:
