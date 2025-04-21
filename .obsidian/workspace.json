@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f4a9441675b9e817",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2025-04-20.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-20"
-            }
-          },
-          {
             "id": "3faa7c649f096c03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OI/题解集合/题解集合_README.md",
+                "file": "日记/2025-04-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "题解集合_README"
+              "title": "2025-04-21"
             }
           }
         ]
@@ -213,10 +189,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4a9441675b9e817",
+  "active": "3faa7c649f096c03",
   "lastOpenFiles": [
-    "日记/2025-04-19.md",
+    "README.md",
+    "日记/2025-04-21.md",
+    "OI/题解集合/题解集合_README.md",
     "日记/2025-04-20.md",
+    "日记/2025-04-19.md",
     "日记/2025-03-22.md",
     "OI/个人总结/NOIp-2024-复盘-补题.md",
     "OI/算法文章/dp学习过程及记录.md",
@@ -234,13 +213,10 @@
     "OI/资源链接/资源链接_README.md",
     "高中文化课/化学/化学_README.md",
     "OI/算法文章/算法文章_README.md",
-    "README.md",
     "introl-ljl@qq.com.md",
     "高中文化课/whk_README.md",
-    "OI/题解集合/题解集合_README.md",
     "OI/题解集合/CF1846B-Rudolph-and-Tic-Tac-Toe-题解.md",
     "OI/算法文章/学习笔记-1-递归及递推.md",
-    "OI/个人模板/个人模板_README.md",
     "OI/资源链接",
     "高中文化课/数学/数学_README",
     "高中文化课/英语/英语_README",
