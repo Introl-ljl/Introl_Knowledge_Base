@@ -2,8 +2,8 @@
 title: Luogu-P5686-题解
 date: 2024-10-08 10:18:07
 tags: 
-- Luogu
 - 题解
+- Luogu
 - 前缀和
 excerpt: P5686题目解析
 ---

@@ -5,8 +5,8 @@ categories:
 date: '2023-08-03T19:36:06+08:00'
 excerpt: 题目简述 在 $8 \times 8$ 的点网格上，一个由小写拉丁字母组成的单词从上到下垂直地写在一列中。你需要找到他并输出 题目分析 由题意可得，网格中只会有一个单词，所以只需要自上而下遍历网格，如果是字母就输出即可。 Code #include &lt;bits/stdc++.h&gt; using namespace std; #define ll long long #define int...
 tags:
+- 题解 
 - CF
-- 题解
 title: CF1850C Word on the Paper题解
 updated: '2023-12-10T17:28:34.979+08:00'
 ---

@@ -5,8 +5,8 @@ categories:
 date: '2023-08-03T19:29:25+08:00'
 excerpt: 题目简述 在 ​n 个回答中找到长度不超过 $10$ 且质量最高的回答。 题目分析 就是个普通模拟，如果 ​a_i\le 10，就打擂台找最大质量，更新序号。 Code #include &lt;bits/stdc++.h&gt; using namespace std; #define ll long long #define int ll const int MaxN = 1e6 + 100;...
 tags:
+- 题解 
 - CF
-- 题解
 title: CF1850B Ten Words of Wisdom题解
 updated: '2023-12-10T17:28:22.159+08:00'
 ---

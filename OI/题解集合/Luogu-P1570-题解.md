@@ -2,8 +2,8 @@
 title: Luogu-P1570-题解
 date: 2024-05-19 13:48:28
 tags: 
-- Luogu
 - 题解
+- Luogu
 - 二分
 excerpt: 刚开始做这道题可能没什么思路，所以我们先从式子入手：假设存在最优解ans：$ans=\frac{\sum v_i}{\sum c_i}$转化得 $ans\times\sum c_i=\sum v_i$移项得 $ans\times \sum c_i-\sum v_i=0$可见，当式子的结果趋向 $ 0$ 时，ans是最优解。所以我们可以设 $f(ans)=ans\times\sum c_i-\sum v_i$
 
