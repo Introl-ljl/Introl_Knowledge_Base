@@ -8,16 +8,12 @@ validation:
     unrecognized_links: warn
 
 markdown_extensions:
-  - pymdownx.arithmatex:
-      generic: true
+    - toc:
+        permalink: true
+    - pymdownx.arithmatex
 
 extra_javascript:
-  - .doc/mathjax.js
-  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
-extra_javascript:
-  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js
-markdown_extensions:
-  - codehilite
+    - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
 theme:
   name: material
   features:
