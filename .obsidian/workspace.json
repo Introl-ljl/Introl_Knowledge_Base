@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025-04-24.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-24"
+              "title": "README"
             }
           }
         ]
@@ -191,33 +191,36 @@
   },
   "active": "3faa7c649f096c03",
   "lastOpenFiles": [
-    "CNAME",
+    "HomeLab/README.md",
+    "HomeLab/家庭网络拓扑.jpg",
+    "README.md",
+    "OI/OI_README.md",
+    "日记/2025-04-20.md",
     "日记/2025-04-21.md",
     "日记/2025-04-24.md",
+    "其他/README.md",
+    "高中文化课/whk_README.md",
+    "高中文化课/政治/政治_README.md",
+    "高中文化课/语文/语文_README.md",
+    "高中文化课/英语/英语_README.md",
+    "高中文化课/物理/物理_README.md",
+    "高中文化课/数学/数学_README.md",
+    "高中文化课/数学/必修一.md",
+    "高中文化课/生物/生物_README.md",
+    "高中文化课/历史/历史_README.md",
+    "高中文化课/化学/化学_README.md",
+    "高中文化课/地理/地理_README.md",
+    "家庭网络拓扑.jpg",
+    "1745509952376_d.jpg",
+    "CNAME",
     "mkdocs.yml",
-    "README.md",
     "OI/题解集合/题解集合_README.md",
-    "日记/2025-04-20.md",
     "日记/2025-04-19.md",
     "日记/2025-03-22.md",
     "OI/个人总结/NOIp-2024-复盘-补题.md",
     "OI/算法文章/dp学习过程及记录.md",
     "OI/题解集合/Luogu-P11361-题解.md",
     "OI/个人总结/CSP2023游记.md",
-    "OI/题解集合/Codeforces-Round-1003-Div-4）题解.md",
-    "OI/算法文章/测试.md",
-    "OI/题解集合/NOIp-2024-复盘-补题.md",
-    "日记/2025-03-16.md",
-    "日记/2025-03-20.md",
-    "日记/2025-03-17.md",
-    "高中文化课/数学/必修一.md",
-    "高中文化课/数学/数学_README.md",
-    "OI/OI_README.md",
-    "OI/资源链接/资源链接_README.md",
-    "高中文化课/化学/化学_README.md",
-    "OI/算法文章/算法文章_README.md",
-    "introl-ljl@qq.com.md",
-    "高中文化课/whk_README.md",
     "OI/资源链接",
     "高中文化课/数学/数学_README",
     "高中文化课/英语/英语_README",
@@ -225,7 +228,6 @@
     "高中文化课/生物/生物_README",
     "高中文化课/政治/政治_README",
     "高中文化课/地理/地理_README",
-    "高中文化课/历史/历史_README",
-    "高中文化课/物理/物理_README"
+    "高中文化课/历史/历史_README"
   ]
 }
