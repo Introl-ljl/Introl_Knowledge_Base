@@ -12,6 +12,7 @@
 | 性能       | 极弱        | Intel i7-10700H | AMD-A4   |
 | 容量       | 10G       | 1TB             | 4TB      |
 | 带宽(Mbps) | 1000/1000 | 100/1000        | 100/1000 |
+
 ### 云服务器
 我的云服务器使用了Akile Cloud的大带宽服务器，上下行1000M。服务器位于香港，访问延迟100ms。主要作为frp服务端为无ipv6环境提供网络访问。此外也可以用作临时VPN科学上网。
 ### PVE虚拟机
@@ -26,6 +27,7 @@
 | Ubuntu    | 2核+8G+RTX2060 | MC服务器+项目开发/AI  | 是    |
 | Windows   | 4核+4G+RTX2060 | 游戏平台/远程需求      | 否    |
 | NOI-Linux | 2核+2G         | 信息学竞赛          | 否    |
+
 #### Docker
 目前Docker常驻的项目有hitokoto-api（自建一言接口）、code-server（网页版VScode）、xiaomusic（小爱音箱播放器）。
 #### fnOS

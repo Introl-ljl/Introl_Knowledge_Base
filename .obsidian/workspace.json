@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "HomeLab/README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -191,9 +191,9 @@
   },
   "active": "3faa7c649f096c03",
   "lastOpenFiles": [
-    "HomeLab/README.md",
     "HomeLab/家庭网络拓扑.jpg",
     "README.md",
+    "HomeLab/README.md",
     "OI/OI_README.md",
     "日记/2025-04-20.md",
     "日记/2025-04-21.md",
