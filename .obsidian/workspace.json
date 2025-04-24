@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "91482abc457cb5ef",
+        "id": "da64f41fd14e7462",
         "type": "tabs",
         "children": [
           {
-            "id": "3faa7c649f096c03",
+            "id": "f87018b565d47045",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -189,11 +189,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3faa7c649f096c03",
+  "active": "f87018b565d47045",
   "lastOpenFiles": [
     "HomeLab/家庭网络拓扑.jpg",
-    "README.md",
+    "家庭网络拓扑.md",
     "HomeLab/README.md",
+    "README.md",
     "OI/OI_README.md",
     "日记/2025-04-20.md",
     "日记/2025-04-21.md",
@@ -220,7 +221,6 @@
     "OI/个人总结/NOIp-2024-复盘-补题.md",
     "OI/算法文章/dp学习过程及记录.md",
     "OI/题解集合/Luogu-P11361-题解.md",
-    "OI/个人总结/CSP2023游记.md",
     "OI/资源链接",
     "高中文化课/数学/数学_README",
     "高中文化课/英语/英语_README",
