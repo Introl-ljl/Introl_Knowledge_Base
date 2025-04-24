@@ -6,6 +6,14 @@ validation:
     absolute_links: relative_to_docs
     anchors: warn
     unrecognized_links: warn
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - .doc/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js
 markdown_extensions:
