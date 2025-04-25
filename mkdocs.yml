@@ -1,6 +1,7 @@
 site_name: Introl's Knowledge Base
 site_url: https://wiki.introl.top/
 docs_dir: ./Introl_Knowledge_Base
+repo_name: 'OI-wiki/OI-wiki'
 repo_url: https://github.com/Introl-ljl/Introl_Knowledge_Base
 validation:
   links:
@@ -12,6 +13,14 @@ markdown_extensions:
     - toc:
         permalink: true
     - pymdownx.arithmatex
+    - pymdownx.highlight:
+        anchor_linenums: true
+        line_spans: __span
+        pygments_lang_class: true
+    - pymdownx.inlinehilite
+    - pymdownx.snippets
+    - pymdownx.superfences
+    
 
 extra_javascript:
     - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
