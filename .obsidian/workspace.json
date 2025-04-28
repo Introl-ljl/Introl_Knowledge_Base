@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "6a68d399c8645173",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2025-04-28.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-04-28"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,8 +214,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f87018b565d47045",
+  "active": "6a68d399c8645173",
   "lastOpenFiles": [
+    "日记/2025-04-28.md",
     "HomeLab/家庭网络拓扑.jpg",
     "家庭网络拓扑.md",
     "HomeLab/README.md",
