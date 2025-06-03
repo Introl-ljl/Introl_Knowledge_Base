@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "da64f41fd14e7462",
+        "id": "3c00ff2cb500e105",
         "type": "tabs",
         "children": [
           {
-            "id": "f87018b565d47045",
+            "id": "35dae2bb2f209977",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HomeLab/未命名.md",
+                "file": "HomeLab/网络/HomeLab的网络配置.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "HomeLab的网络配置"
             }
           }
         ]
@@ -189,18 +189,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f87018b565d47045",
+  "active": "35dae2bb2f209977",
   "lastOpenFiles": [
-    "HomeLab/README.md",
-    "HomeLab/未命名.md",
+    "HomeLab/网络/网络基础.md",
+    "HomeLab/网络/HomeLab的网络配置.md",
+    "日记/2025-06-03.md",
     "日记/2025-05-01.md",
+    "HomeLab/家庭网络拓扑.jpg",
+    "HomeLab/README.md",
+    "HomeLab/网络",
+    "HomeLab/未命名.md",
     "日记/2025-04-28.md",
     "日记/2025-04-24.md",
     "高中文化课/数学/课本.md",
     "高中文化课/数学/一数必刷100讲（基础）.md",
     "[一数必刷100讲-基础版(2025版).md",
     "高中文化课/数学/数学_README.md",
-    "HomeLab/家庭网络拓扑.jpg",
     "家庭网络拓扑.md",
     "README.md",
     "OI/OI_README.md",
@@ -215,18 +219,16 @@
     "高中文化课/生物/生物_README.md",
     "高中文化课/历史/历史_README.md",
     "高中文化课/化学/化学_README.md",
-    "高中文化课/地理/地理_README.md",
     "家庭网络拓扑.jpg",
     "1745509952376_d.jpg",
     "CNAME",
     "mkdocs.yml",
-    "OI/题解集合/题解集合_README.md",
-    "日记/2025-04-19.md",
     "OI/资源链接",
     "高中文化课/数学/数学_README",
     "高中文化课/英语/英语_README",
     "高中文化课/化学/化学_README",
     "高中文化课/生物/生物_README",
     "高中文化课/政治/政治_README",
-    "高中文化课/地理/地理_README",
-    "高中文化课/历史/历史_README"
+    "高中文化课/地理/地理_README"
+  ]
+}
