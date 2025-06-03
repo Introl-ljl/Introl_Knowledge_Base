@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高中文化课/地理/地理_README.md",
+                "file": "单片机/README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "地理_README"
+              "title": "README"
             }
           }
         ]
@@ -189,8 +189,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3ffdb5799fecb0b",
+  "active": "35dae2bb2f209977",
   "lastOpenFiles": [
+    "高中文化课/地理/地理_README.md",
     "HomeLab/网络/HomeLab的网络配置.md",
     "OI/算法文章/贪心算法-刷题记录.md",
     "HomeLab/网络/网络基础.md",
@@ -218,7 +219,6 @@
     "高中文化课/英语/英语_README.md",
     "高中文化课/物理/物理_README.md",
     "高中文化课/生物/生物_README.md",
-    "高中文化课/历史/历史_README.md",
     "家庭网络拓扑.jpg",
     "1745509952376_d.jpg",
     "CNAME",
